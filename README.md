@@ -1,0 +1,1 @@
+# Autofocus-Finding-the-sharpest-image-in-a-video-squence-of-a-static-scene-
